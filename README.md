@@ -1,12 +1,12 @@
  📈 Banking Data Analytics Project
 
-<br>
+
 An end-to-end **Banking Data Analytics** project built with **Python, MySQL, Excel, and Power BI**.  
 This repository demonstrates how to take **raw banking data**, process it, analyze it, and create an **interactive dashboard** for decision-making.
 
 ---
 
-<br>
+
 ## 🔎 Project Overview
 - 🗂 **Data Collection** → Raw data (`Banking.csv`) and processed dataset (`Banking.xlsx`)  
 - 🛠 **Data Processing** → Cleaning, transformations, and SQL integration  
@@ -14,7 +14,7 @@ This repository demonstrates how to take **raw banking data**, process it, analy
 - 📈 **Business Intelligence** → Power BI dashboard with KPIs and insights  
 
 ---
-<br>
+
 
 ## 📂 Repository Contents
 ```bash
@@ -25,7 +25,7 @@ This repository demonstrates how to take **raw banking data**, process it, analy
 ├── Banking.pbix         # Power BI dashboard file
 └── README.md            # Documentation
 
-<br>
+
 
 📊 Dashboard Features
 
@@ -37,7 +37,7 @@ Trends and patterns in banking data
 
 Key KPIs (total loans, averages, growth trends)
 
-<br>
+
 
 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ Excel → Preprocessing & structured dataset
 
 Power BI → Interactive dashboard
 
-<br>
+
 
 🔮 Next Steps
 
